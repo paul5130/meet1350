@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_qat.dart
+ASSET_PREFIX=qat
+BUNDLE_NAME=[qat] meet1350
+BUNDLE_DISPLAY_NAME=[qat] meet1350

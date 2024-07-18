@@ -8,19 +8,34 @@
             "name": "meet1350(dev)",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "debug"
+            "flutterMode": "debug",
+            "args": [
+                "--flavor",
+                "dev"
+            ],
+            "program": "lib/main_dev.dart"
         },
         {
             "name": "meet1350 (qat)",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "profile"
+            "flutterMode": "profile",
+            "args": [
+                "--flavor",
+                "qat"
+            ],
+            "program": "lib/main_qat.dart"
         },
         {
             "name": "meet1350 (prod)",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "release"
+            "flutterMode": "release",
+            "args": [
+                "--flavor",
+                "prod"
+            ],
+            "program": "lib/main_prod.dart"
         }
     ]
 }

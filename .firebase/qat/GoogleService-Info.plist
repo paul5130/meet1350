@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAnJDm-6adtMb6HQmm7OsVQmwnNz3bs56M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>703068813151</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.paulyswen.meet1350.qat</string>
+	<key>PROJECT_ID</key>
+	<string>meet-1350</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meet-1350.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:703068813151:ios:96dbed0e5e11688de7a8ea</string>
+</dict>
+</plist>

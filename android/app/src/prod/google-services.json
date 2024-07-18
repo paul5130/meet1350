@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "703068813151",
+    "project_id": "meet-1350",
+    "storage_bucket": "meet-1350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703068813151:android:28cd2d5d80075e5ce7a8ea",
+        "android_client_info": {
+          "package_name": "com.paulyswen.meet1350"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4So8X6yXVICxhZGK3S-9jSk5pWRce6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703068813151:android:1ec3734f5f24762de7a8ea",
+        "android_client_info": {
+          "package_name": "com.paulyswen.meet1350.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4So8X6yXVICxhZGK3S-9jSk5pWRce6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703068813151:android:f4beb6966701d17be7a8ea",
+        "android_client_info": {
+          "package_name": "com.paulyswen.meet1350.qat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4So8X6yXVICxhZGK3S-9jSk5pWRce6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
