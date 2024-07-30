@@ -1,8 +1,11 @@
+import 'package:meet1350/app.dart';
+import 'package:meet1350/bootstrap.dart';
+
 import 'flavors.dart';
 
-import 'main.dart' as runner;
-
-Future<void> main() async {
-  F.appFlavor = Flavor.dev;
-  await runner.main();
-}
+void main() => bootstrap(
+      flavor: Flavor.dev,
+      builder: ({required initialBinding}) => App(
+        initialBinding: initialBinding,
+      ),
+    );
