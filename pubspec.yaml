@@ -51,7 +51,7 @@ flavorizr:
       android:
         applicationId: 'com.paulyswen.meet1350.qat'
         firebase:
-          config: '.firebase/dev/google-services.json'
+          config: '.firebase/qat/google-services.json'
         customConfig:
           minSdkVersion: 26
           targetSdkVersion: 33
@@ -65,7 +65,7 @@ flavorizr:
       android:
         applicationId: 'com.paulyswen.meet1350'
         firebase:
-          config: '.firebase/dev/google-services.json'
+          config: '.firebase/prod/google-services.json'
         customConfig:
           minSdkVersion: 26
           targetSdkVersion: 33
