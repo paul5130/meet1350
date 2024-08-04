@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.paulyswen.meet1350</string>
+	<string>com.paulyswen.meet1350.dev</string>
 	<key>PROJECT_ID</key>
 	<string>meet-1350</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:703068813151:ios:796c9511c54dcbf1e7a8ea</string>
+	<string>1:703068813151:ios:29644cfef17a6287e7a8ea</string>
 </dict>
 </plist>
