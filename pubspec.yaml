@@ -73,8 +73,3 @@ flavorizr:
         bundleId: com.paulyswen.meet1350
         firebase:
           config: .firebase/prod/GoogleService-Info.plist
-flutter_launcher_icons:
-  android: "launcher_icon"
-  ios: true
-  remove_alpha_ios: true
-  image_path: "assets/images/ic_launch.png"
